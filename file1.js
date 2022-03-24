@@ -1,0 +1,1 @@
+module.exports=`<h1>Export Demo JS</h1>`
